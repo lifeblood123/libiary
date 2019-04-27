@@ -1,0 +1,27 @@
+{
+  "name": "yunlibiary",
+  "version": "1.0.3",
+  "description": "yun is yake best love",
+  "main": "dist/webpack-numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lifeblood123/libiary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lifeblood123/libiary/issues"
+  },
+  "homepage": "https://github.com/lifeblood123/libiary#readme",
+  "keywords": [],
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  },
+  "dependencies": {}
+}
